@@ -6,6 +6,8 @@ namespace ConsoleApp3
 {
     class NewClass
     {
+        void method() {
 
+-        }
     }
 }
