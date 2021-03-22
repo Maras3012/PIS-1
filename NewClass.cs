@@ -8,6 +8,6 @@ namespace ConsoleApp3
     {
         void method() {
 
--        }
+        }
     }
 }
