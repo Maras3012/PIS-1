@@ -6,6 +6,6 @@ namespace ConsoleApp3
 {
     class NewClass
     {
+        //druga promjena
     }
 }
-//glovo
